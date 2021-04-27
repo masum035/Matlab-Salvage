@@ -1,2 +1,4 @@
 # Matlab-Salvage
-![programming-in-matlab-we-hates-it-we-hates-it-forever](https://user-images.githubusercontent.com/53784551/116201227-191b1580-a75b-11eb-8d8e-2f32a09da05c.jpg)
+![matlab_MEME](https://user-images.githubusercontent.com/53784551/116205721-d7d93480-a75f-11eb-99fb-8637dd191490.jpg)
+
+[![Abdullah Al Masum's github stats](https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby)](https://github.com/MasumBhai)
